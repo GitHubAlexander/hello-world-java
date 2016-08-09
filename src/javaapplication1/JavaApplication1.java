@@ -10,5 +10,4 @@ public class JavaApplication1 {
         System.out.println("Window");
         System.out.println("Tommy");
     }
-    
 }
