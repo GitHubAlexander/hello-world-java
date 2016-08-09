@@ -10,5 +10,6 @@ public class JavaApplication1 {
         System.out.println("window");
         System.out.println("bird");
         System.out.println("dog");
+        System.out.println("apple");
     }
 }
